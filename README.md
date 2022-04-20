@@ -1,4 +1,4 @@
-# FIGS-BIs_for_redox_catalysis
+# FIGS-BIs_for_SET_catalysis
 Jupyter notebook for figure preparation for our publication:
 
 # How to Enhance the Reducing Power of Breslow Intermediates for SET Catalysis
